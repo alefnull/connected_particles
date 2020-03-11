@@ -1,0 +1,28 @@
+﻿{
+  "standard": {
+      "globals": [
+          "setup",
+          "draw",
+          "background",
+          "stroke",
+          "strokeWeight",
+          "fill",
+          "width",
+          "height",
+          "createCanvas",
+          "createVector",
+          "circle",
+          "beginShape",
+          "endShape",
+          "vertex",
+          "point",
+          "random",
+          "noStroke",
+          "dist",
+          "map",
+          "line",
+          "sqrt",
+          "TRIANGLES"
+      ]
+  }
+}
